@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea4730d3-a40b-4be5-b5d9-d0732b314bd7" name="Default Changelist" comment="Inital Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+  </component>
+  <component name="ProjectId" id="1iUV7Kf1rvdjYk6kJw8S8VPoFai" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../programming" />
+      <recent name="$PROJECT_DIR$/../programming/" />
+      <recent name="$PROJECT_DIR$/../programming/tennis-kata" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cgi.tennis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/cgi/tennis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TennisTest">
+    <configuration name="TennisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tennis-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cgi.tennis.GameStatus" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cgi.tennis" />
+      <option name="MAIN_CLASS_NAME" value="com.cgi.tennis.TennisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TennisTestStep10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tennis-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cgi.tennis.GameStatus" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cgi.tennis" />
+      <option name="MAIN_CLASS_NAME" value="com.cgi.tennis.TennisTestStep10" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TennisTestStep7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tennis-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cgi.tennis.GameStatus" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cgi.tennis" />
+      <option name="MAIN_CLASS_NAME" value="com.cgi.tennis.TennisTestStep7" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TennisTestStep8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tennis-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cgi.tennis.GameStatus" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cgi.tennis" />
+      <option name="MAIN_CLASS_NAME" value="com.cgi.tennis.TennisTestStep8" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TennisTestStep9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tennis-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cgi.tennis.GameStatus" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cgi.tennis" />
+      <option name="MAIN_CLASS_NAME" value="com.cgi.tennis.TennisTestStep9" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TennisTest" />
+        <item itemvalue="JUnit.TennisTestStep9" />
+        <item itemvalue="JUnit.TennisTestStep8" />
+        <item itemvalue="JUnit.TennisTestStep7" />
+        <item itemvalue="JUnit.TennisTestStep10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea4730d3-a40b-4be5-b5d9-d0732b314bd7" name="Default Changelist" comment="" />
+      <created>1601961989059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601961989059</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Inital Commit">
+      <created>1601962337104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601962337104</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inital Commit">
+      <created>1602315673625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602315673625</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1602335150343</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602335150343</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Inital Commit" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="1255" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602247092677">
+      <screen x="0" y="0" width="1964" height="2120" />
+    </state>
+    <state x="457" y="1255" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1964.2120@0.0.1964.2120" timestamp="1602247092677" />
+    <state x="100" y="100" width="1710" height="834" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1602006595163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="100" y="100" width="1710" height="834" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602006595163" />
+    <state x="763" y="221" width="374" height="586" key="#com.intellij.ide.util.MemberChooser" timestamp="1602004070811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="221" width="374" height="586" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602004070811" />
+    <state x="731" y="1289" width="526" height="610" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1602269221553">
+      <screen x="44" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="731" y="1289" width="526" height="610" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/44.1080.1920.1080/0.0.1920.1080@44.1080.1920.1080" timestamp="1602269221553" />
+    <state x="638" y="256" width="624" height="516" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602075986506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="256" width="624" height="516" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602075986506" />
+    <state x="1187" y="1375" width="576" height="454" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1602246371624">
+      <screen x="0" y="0" width="1964" height="2120" />
+    </state>
+    <state x="1187" y="1375" width="576" height="454" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1964.2120@0.0.1964.2120" timestamp="1602246371624" />
+    <state x="162" y="0" width="1566" height="1034" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602007026661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="162" y="0" width="1566" height="1034" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602007026661" />
+    <state x="191" y="1133" width="424" height="505" key="FileChooserDialogImpl" timestamp="1602335368370">
+      <screen x="44" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="738" y="261" width="424" height="505" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601962631131" />
+    <state x="150" y="104" width="424" height="478" key="FileChooserDialogImpl/0.0.1964.2120@0.0.1964.2120" timestamp="1602247390623" />
+    <state x="191" y="1133" width="424" height="505" key="FileChooserDialogImpl/44.1080.1920.1080/0.0.1920.1080@44.1080.1920.1080" timestamp="1602335368370" />
+    <state x="823" y="417" key="Github.ShareDialog" timestamp="1601962706805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="823" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601962706805" />
+    <state width="1868" height="275" key="GridCell.Tab.0.bottom" timestamp="1602269184307">
+      <screen x="44" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602075995223" />
+    <state width="1868" height="275" key="GridCell.Tab.0.bottom/0.0.1964.2120@0.0.1964.2120" timestamp="1602250356658" />
+    <state width="1868" height="275" key="GridCell.Tab.0.bottom/44.1080.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1602170894783" />
+    <state width="1868" height="275" key="GridCell.Tab.0.bottom/44.1080.1920.1080/0.0.1920.1080@44.1080.1920.1080" timestamp="1602269184307" />
+    <state width="1868" height="275" key="GridCell.Tab.0.center" timestamp="1602269184307">
+      <screen x="44" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602075995222" />
+    <state width="1868" height="275" key="GridCell.Tab.0.center/0.0.1964.2120@0.0.1964.2120" timestamp="1602250356657" />
+    <state width="1868" height="275" key="GridCell.Tab.0.center/44.1080.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1602170894783" />
+    <state width="1868" height="275" key="GridCell.Tab.0.center/44.1080.1920.1080/0.0.1920.1080@44.1080.1920.1080" timestamp="1602269184307" />
+    <state width="1868" height="275" key="GridCell.Tab.0.left" timestamp="1602269184307">
+      <screen x="44" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602075995221" />
+    <state width="1868" height="275" key="GridCell.Tab.0.left/0.0.1964.2120@0.0.1964.2120" timestamp="1602250356656" />
+    <state width="1868" height="275" key="GridCell.Tab.0.left/44.1080.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1602170894783" />
+    <state width="1868" height="275" key="GridCell.Tab.0.left/44.1080.1920.1080/0.0.1920.1080@44.1080.1920.1080" timestamp="1602269184307" />
+    <state width="1868" height="275" key="GridCell.Tab.0.right" timestamp="1602269184307">
+      <screen x="44" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602075995223" />
+    <state width="1868" height="275" key="GridCell.Tab.0.right/0.0.1964.2120@0.0.1964.2120" timestamp="1602250356657" />
+    <state width="1868" height="275" key="GridCell.Tab.0.right/44.1080.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1602170894783" />
+    <state width="1868" height="275" key="GridCell.Tab.0.right/44.1080.1920.1080/0.0.1920.1080@44.1080.1920.1080" timestamp="1602269184307" />
+    <state width="1868" height="339" key="GridCell.Tab.1.bottom" timestamp="1602170568835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1868" height="339" key="GridCell.Tab.1.bottom/44.1080.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1602170568835" />
+    <state width="1868" height="339" key="GridCell.Tab.1.center" timestamp="1602170568835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1868" height="339" key="GridCell.Tab.1.center/44.1080.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1602170568835" />
+    <state width="1868" height="339" key="GridCell.Tab.1.left" timestamp="1602170568835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1868" height="339" key="GridCell.Tab.1.left/44.1080.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1602170568835" />
+    <state width="1868" height="339" key="GridCell.Tab.1.right" timestamp="1602170568835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1868" height="339" key="GridCell.Tab.1.right/44.1080.1920.1080/0.0.1920.1040@0.0.1920.1040" timestamp="1602170568835" />
+    <state x="771" y="454" width="357" height="120" key="ReplaceDuplicatesPrompt" timestamp="1601989734363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="454" width="357" height="120" key="ReplaceDuplicatesPrompt/0.0.1920.1040@0.0.1920.1040" timestamp="1601989734363" />
+    <state x="503" y="1203" width="1002" height="724" key="SettingsEditor" timestamp="1602335342660">
+      <screen x="44" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="459" y="152" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601962489838" />
+    <state x="470" y="241" width="1024" height="839" key="SettingsEditor/0.0.1964.2120@0.0.1964.2120" timestamp="1602247432089" />
+    <state x="503" y="1203" width="1002" height="724" key="SettingsEditor/44.1080.1920.1080/0.0.1920.1080@44.1080.1920.1080" timestamp="1602335342660" />
+    <state x="599" y="1335" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1602335446261">
+      <screen x="44" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="599" y="1335" width="800" height="522" key="Vcs.Push.Dialog.v2/44.1080.1920.1080/0.0.1920.1080@44.1080.1920.1080" timestamp="1602335446261" />
+    <state x="1091" y="503" width="524" height="486" key="extract.method.dialog" timestamp="1601989713124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1091" y="503" width="524" height="486" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601989713124" />
+    <state x="759" y="429" width="381" height="170" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601962523824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="429" width="381" height="170" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601962523824" />
+    <state x="744" y="1496" width="510" height="199" key="git4idea.ui.GitResetDialog" timestamp="1602335038644">
+      <screen x="44" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="744" y="1496" width="510" height="199" key="git4idea.ui.GitResetDialog/44.1080.1920.1080/0.0.1920.1080@44.1080.1920.1080" timestamp="1602335038644" />
+    <state x="403" y="1536" width="802" height="584" key="new project wizard" timestamp="1602252566894">
+      <screen x="44" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="549" y="222" width="802" height="584" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1601969663222" />
+    <state x="367" y="1080" width="821" height="1040" key="new project wizard/0.0.1964.2120@0.0.1964.2120" timestamp="1602247808457" />
+    <state x="403" y="1536" width="802" height="584" key="new project wizard/44.1080.1920.1080/0.0.1920.1080@44.1080.1920.1080" timestamp="1602252566894" />
+  </component>
+</project>
